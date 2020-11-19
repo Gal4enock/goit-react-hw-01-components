@@ -1,0 +1,32 @@
+[
+  {
+    "avatar": "https://mygamehunter.ru/images/thumbnail/148623/550",
+    "name": "Mango",
+    "isOnline": true,
+    "id": 1812
+  },
+  {
+    "avatar": "https://playablecharacterblog.files.wordpress.com/2017/03/thundercats-file-avatar-hd-jpg-james-cameron-s-wiki-sam-587658.jpg?w=550",
+    "name": "Kiwi",
+    "isOnline": false,
+    "id": 1137
+  },
+  {
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLT2gajuu2C-EKEA_oorb813W7in_rsFMWFA&usqp=CAU",
+    "name": "Ajax",
+    "isOnline": true,
+    "id": 1213
+  },
+  {
+    "avatar": "https://pickaface.net/gallery/avatar/unr_dudethedude_161025_0005_yjw3j.png",
+    "name": "Jay",
+    "isOnline": true,
+    "id": 1714
+  },
+  {
+    "avatar": "https://pickaface.net/gallery/avatar/adrzewicki568e6d4c88fdb.png",
+    "name": "Poly",
+    "isOnline": false,
+    "id": 1284
+  }
+]
