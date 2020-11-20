@@ -4,17 +4,17 @@ import React from 'react';
 const TransactionHistory = ({ items }) => {
   console.log(items);
   return (
-    <table className="transaction-history">
+    <table className={styles.transactionHistory}>
       <thead>
-        <tr>
+        <tr className={styles.transactionHead}>
           <th>Type</th>
           <th>Amount</th>
           <th>Currency</th>
         </tr>
       </thead>
       <tbody>
-        { items.map((item) => {
-         return (<tr key={item.id}>
+        { items.map((item, i) => {
+         return (<tr key={item.id} className={styles.row}>
             <td>{item.type}</td>
             <td>{item.amount}</td>
             <td>{item.currency}</td>

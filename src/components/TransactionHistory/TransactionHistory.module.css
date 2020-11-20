@@ -1,0 +1,15 @@
+.transactionHistory {
+  width: 400px;
+  background-color: rgb(226, 224, 224);
+  margin: 0 auto;
+}
+.transactionHead {
+  background-color: lightblue;
+  color: white;
+}
+.row:nth-child(2n) {
+  background-color: lightgray;
+}
+.row:nth-child(2n + 1) {
+  background-color: white;
+}
