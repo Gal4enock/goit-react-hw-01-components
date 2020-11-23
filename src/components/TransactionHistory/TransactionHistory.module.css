@@ -13,3 +13,6 @@
 .row:nth-child(2n + 1) {
   background-color: white;
 }
+.row {
+  text-align: center;
+}
